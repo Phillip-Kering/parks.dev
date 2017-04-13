@@ -25,6 +25,7 @@ body
 	width: 300px;
 	height: 120px;
 	margin-bottom: 200px;
+
 	border-radius: 3px;
 	background-color: transparent;
 	box-shadow: 0 0 10px rgba(0,0,0,0.6);
@@ -44,6 +45,7 @@ body
 	margin-right: 30px;
 	background-color: transparent;
 	float: right;
+	color: white;
 }
 
 .button
@@ -102,6 +104,6 @@ p
 	{ 
 		padding: 6px; 
 		border: 1px solid #FFF;
-		border-opac 
+		color: white;
 		text-align: left; 
 	}
