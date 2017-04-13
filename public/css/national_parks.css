@@ -1,0 +1,107 @@
+h1, h3
+{
+	font-family: 'Raleway', sans-serif;
+	color: #FFF;
+} 
+
+
+* 
+{ 
+	margin: 0; 
+	padding: 0; 
+}
+
+body
+{
+  background: -webkit-linear-gradient(left, #A43931, #1D4350);
+  background: linear-gradient(to right, #A43931, #1D4350);
+  font-family: 'Rajdhani', sans-serif;
+  margin: 0 auto;
+  font: #FFF;
+}
+
+.containerInput
+{
+	width: 300px;
+	height: 120px;
+	margin-bottom: 200px;
+	border-radius: 3px;
+	background-color: transparent;
+	box-shadow: 0 0 10px rgba(0,0,0,0.6);
+	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+	-o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+	position: relative;
+}
+
+.input
+{
+	width: 150px;
+	border-radius: 3px;
+	border-style: none;
+	outline-style: none;
+	border-bottom: 1px solid white;
+	margin-right: 30px;
+	background-color: transparent;
+	float: right;
+}
+
+.button
+{
+	float: right;
+	margin-right: 30px;
+	width: 70px;
+	height: 20px;
+	opacity: .7;
+}
+
+.input1
+{
+	margin-top: 3px;
+}
+
+
+.label
+{
+	color: #FFF;
+	opacity: .7;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+#page-wrap 
+{
+	margin: 50px;
+}
+
+p 
+{
+	margin: 20px 0; 
+}
+
+	/* 
+	Generic Styling, for Desktops/Laptops 
+	*/
+	table 
+	{ 
+		width: 40%; 
+		margin: auto 0;
+		color: #FFF;
+		opacity: .6;
+		border-collapse: collapse; 
+	}
+
+	th 
+	{ 
+		background: #333; 
+		color: white; 
+		font-weight: bold; 
+	}
+
+	td, th 
+	{ 
+		padding: 6px; 
+		border: 1px solid #FFF;
+		border-opac 
+		text-align: left; 
+	}
